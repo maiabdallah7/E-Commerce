@@ -1,4 +1,4 @@
-﻿namespace DbContext
+﻿namespace Abstraction
 {
     public class Class1
     {
