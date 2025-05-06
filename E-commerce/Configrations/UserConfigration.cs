@@ -20,7 +20,7 @@ namespace E_commerce.Configrations
                     .HasColumnType("varchar")
                     .HasMaxLength(50);
 
-               
+
 
                 builder.Property(u => u.Password)
                     .IsRequired()
